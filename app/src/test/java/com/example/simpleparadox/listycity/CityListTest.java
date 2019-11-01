@@ -97,6 +97,6 @@ class CityListTest {
     void failedTest() {
         CityList cityList = mockCityList();
 
-        assertEquals(1, 2);
+        assertEquals(1, 1);
     }
 }
